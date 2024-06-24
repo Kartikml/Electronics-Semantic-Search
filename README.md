@@ -45,11 +45,11 @@ This project focuses on creating a semantic search engine for an electronic prod
 0. **Clone the Repository:**
    Before starting with the project setup, clone the repository to your local machine using:
    ```bash
-   git clone https://github.com/kartikml/Semantic_search_for_Electronic_products.git
+   git clone https://github.com/kartikml/Electronics-Semantic-Search.git
    ```
    Navigate into the project directory:
       ```bash
-      cd Semantic_search_for_Electronic_products
+      cd Electronics-Semantic-Search 
       ```
 
 1. **Create a virtual environment:**
