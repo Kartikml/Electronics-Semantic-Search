@@ -1,0 +1,5 @@
+pandas==2.0.3
+sentence-transformers==3.0.1
+qdrant-client==1.9.1
+numpy==1.24.4
+gradio==4.36.1
